@@ -6,7 +6,7 @@ CFLAGS = -Wall -Wextra -g
 SRCS = $(wildcard *.c)
 
 OBJS = $(SRCS:.c=.o)
-
+#;akjsdf
 all: $(TARGET)
 
 $(TARGET): $(OBJS)
