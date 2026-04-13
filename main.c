@@ -3,6 +3,7 @@
 int main() {
   int a = 1;
   int b = 2;
+  prin
   printf("a = %d, b = %d\n", a, b);
   printf("a + b = %d\n", plus(a, b));
   printf("a * b = %d\n", mult(a, b));
