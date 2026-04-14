@@ -8,5 +8,5 @@ int main() {
   printf("a + b = %d\n", plus(a, b));
   printf("a * b = %d\n", mult(a, b));
   printf("a^2 + b^2 = %d\n", quadra_plus(a, b));
-  askl;djf;lkas
 }
+// jf;flkaj;lsdf

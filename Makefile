@@ -7,7 +7,7 @@ SRCS = $(wildcard *.c)
 
 OBJS = $(SRCS:.c=.o)
 #;akjsdf
-all: $(TARGET)
+all: $(TAaRGET)
 
 $(TARGET): $(OBJS)
 	$(CC) $(CFLAGS) -o $(TARGET) $(OBJS)
